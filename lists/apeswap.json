@@ -30,22 +30,6 @@
       "logoURI": "https://raw.githubusercontent.com/dactue1006/antfinance-token-lists/main/assets/WBNB.svg"
     },
     {
-      "name": "BANANA Token",
-      "symbol": "BANANA",
-      "address": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dactue1006/antfinance-token-lists/main/assets/BANANA.svg"
-    },
-    {
-      "name": "BANANA Token",
-      "symbol": "BANANA",
-      "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/dactue1006/antfinance-token-lists/main/assets/BANANA.svg"
-    },
-    {
       "name": "ANT Token",
       "symbol": "ANT",
       "address": "0x39A4A7Ca0d8F241135E1036CD868deD3d8F9f5F0",
