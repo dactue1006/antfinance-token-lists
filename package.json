@@ -1,6 +1,6 @@
 {
-  "name": "@apeswapfinance/token-lists",
-  "version": "1.0.234",
+  "name": "@dactue1006/token-lists",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,12 +11,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ApeSwapFinance/apeswap-token-lists.git"
+    "url": "git+https://github.com/dactue1006/antfinance-token-lists.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ApeSwapFinance/apeswap-token-lists/issues"
+    "url": "https://github.com/dactue1006/antfinance-token-lists/issues"
   },
-  "homepage": "https://github.com/ApeSwapFinance/apeswap-token-lists#readme"
+  "homepage": "https://github.com/dactue1006/antfinance-token-lists#readme"
 }
